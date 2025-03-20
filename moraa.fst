@@ -1,0 +1,250 @@
+exporterVersion = 0.7.0
+name     = mora
+type     = body+head
+scale    = 1
+filename = untitled.glb
+bs = JawOpen = Mouth Open = 1
+bs = EyeBlink_L = Left Blink = 1
+bs = EyeBlink_R = Right Blink = 1
+jointMap = LeftUpLeg = Left_leg
+jointMap = LeftLeg = Left_knee
+jointMap = LeftFoot = Left_ankle
+jointMap = LeftToeBase = Left_ankle.002
+jointMap = RightUpLeg = Right_leg
+jointMap = RightLeg = Right_knee
+jointMap = RightFoot = Right_ankle
+jointMap = RightToeBase = Right_ankle.002
+jointMap = Spine2 = Chest
+jointMap = LeftShoulder = Left_shoulder
+jointMap = LeftArm = Left_arm
+jointMap = LeftForeArm = Left_elbow
+jointMap = LeftHand = Left_wrist
+jointMap = LeftHandIndex1 = IndexFinger1_L
+jointMap = LeftHandIndex2 = IndexFinger2_L
+jointMap = LeftHandMiddle1 = MiddleFinger1_L
+jointMap = LeftHandMiddle2 = MiddleFinger2_L
+jointMap = LeftHandPinky1 = PinkieFinger1_L
+jointMap = LeftHandPinky2 = PinkieFinger2_L
+jointMap = LeftHandRing1 = ringFinger1_L
+jointMap = LeftHandRing2 = ringFinger2_L
+jointMap = LeftHandThumb1 = Thumb1_L
+jointMap = LeftHandThumb2 = Thumb2_L
+jointMap = LeftHandThumb3 = Thumb3_L
+jointMap = LeftEye = Eye_L
+jointMap = RightEye = Eye_R
+jointMap = RightShoulder = Right_shoulder
+jointMap = RightArm = Right_arm
+jointMap = RightForeArm = Right_elbow
+jointMap = RightHand = Right_wrist
+jointMap = RightHandIndex1 = IndexFinger1_R
+jointMap = RightHandIndex2 = IndexFinger2_R
+jointMap = RightHandMiddle1 = MiddleFinger1_R
+jointMap = RightHandMiddle2 = MiddleFinger2_R
+jointMap = RightHandPinky1 = PinkieFinger1_R
+jointMap = RightHandPinky2 = PinkieFinger2_R
+jointMap = RightHandRing1 = ringFinger1_R
+jointMap = RightHandRing2 = ringFinger2_R
+jointMap = RightHandThumb1 = Thumb1_R
+jointMap = RightHandThumb2 = Thumb2_R
+jointMap = RightHandThumb3 = Thumb3_R
+jointRotationOffset2 = untitled(Clone) = (0, 0, 0, -1)
+jointRotationOffset2 = Armature = (-0.7071068, 0, 0, -0.7071067)
+jointRotationOffset2 = Hips = (-1.682831E-07, -1.468882E-07, 5.123458E-06, -0.9999999)
+jointRotationOffset2 = Spine = (0.05427939, 1.508563E-07, -2.775203E-06, -0.9985257)
+jointRotationOffset2 = Chest = (0.08246513, 1.252751E-07, -6.75759E-06, -0.996594)
+jointRotationOffset2 = Neck = (-1.660775E-07, -3.378812E-12, 2.312186E-13, -0.9999999)
+jointRotationOffset2 = Head = (-1.660775E-07, -3.378812E-12, 2.312186E-13, -0.9999999)
+jointRotationOffset2 = Eye_L = (0.02187852, 3.200391E-05, 3.20039E-05, -0.9997606)
+jointRotationOffset2 = Eye_L_end = (0.02187852, 3.200391E-05, 3.20039E-05, -0.9997606)
+jointRotationOffset2 = ear1_L = (-0.1430578, -0.2130264, -0.2130265, -0.9427481)
+jointRotationOffset2 = ear1_L.001 = (-0.1053245, -0.1979245, -0.1979243, -0.954232)
+jointRotationOffset2 = ear2_L = (-0.02668703, -0.1618094, -0.1618093, -0.9730999)
+jointRotationOffset2 = ear3_L = (-0.01315419, -0.09956799, -0.09956794, -0.9899492)
+jointRotationOffset2 = ear3_L.001 = (0.04660251, -0.07324585, -0.07324578, -0.9935282)
+jointRotationOffset2 = ear3_L.002 = (0.0519421, -0.03780328, -0.03780321, -0.9972181)
+jointRotationOffset2 = ear3_L.002_end = (0.0519421, -0.03780328, -0.03780321, -0.9972181)
+jointRotationOffset2 = ear1_R = (-0.1430578, 0.2130264, 0.2130263, -0.9427481)
+jointRotationOffset2 = ear1_R.001 = (-0.1053244, 0.1979248, 0.1979248, -0.9542318)
+jointRotationOffset2 = ear2_R = (-0.02668771, 0.1618099, 0.1618098, -0.9730997)
+jointRotationOffset2 = ear3_R = (-0.01315359, 0.09956664, 0.0995666, -0.9899496)
+jointRotationOffset2 = ear3_R.001 = (0.04660241, 0.07324598, 0.07324599, -0.9935283)
+jointRotationOffset2 = ear3_R.002 = (0.05194214, 0.03780304, 0.03780304, -0.9972182)
+jointRotationOffset2 = ear3_R.002_end = (0.05194214, 0.03780304, 0.03780304, -0.9972182)
+jointRotationOffset2 = Eye_R = (0.02187852, -3.200391E-05, -3.20039E-05, -0.9997606)
+jointRotationOffset2 = Eye_R_end = (0.02187852, -3.200391E-05, -3.20039E-05, -0.9997606)
+jointRotationOffset2 = HAIR = (-1.660775E-07, -3.378812E-12, 2.312186E-13, -0.9999999)
+jointRotationOffset2 = cheekFluff_L = (-0.5543244, -0.2153921, -0.2153921, -0.774556)
+jointRotationOffset2 = cheekFluff_L.001 = (-0.5647476, -0.1728042, -0.1728042, -0.7882497)
+jointRotationOffset2 = cheekFluff_L.001_end = (-0.5647476, -0.1728042, -0.1728042, -0.7882497)
+jointRotationOffset2 = cheekFluff_R = (-0.5543244, 0.2153921, 0.2153921, -0.774556)
+jointRotationOffset2 = cheekFluff_R.001 = (-0.5647477, 0.1728042, 0.1728042, -0.7882497)
+jointRotationOffset2 = cheekFluff_R.001_end = (-0.5647477, 0.1728042, 0.1728042, -0.7882497)
+jointRotationOffset2 = hair1 = (0.9461647, 1.157581E-07, 3.38378E-07, -0.3236855)
+jointRotationOffset2 = hair2 = (0.98194, 2.255311E-08, 1.170598E-07, -0.1891929)
+jointRotationOffset2 = hair2_end = (0.98194, 2.255311E-08, 1.170598E-07, -0.1891929)
+jointRotationOffset2 = frontwhiiskers1_L = (0.5716679, 0.4742189, 0.4742188, 0.4726824)
+jointRotationOffset2 = frontwhiiskers2_L = (0.6662281, 0.4530893, 0.4530891, 0.3815237)
+jointRotationOffset2 = frontwhiiskers2_L_end = (0.6662281, 0.4530893, 0.4530891, 0.3815237)
+jointRotationOffset2 = frontwhiiskers1_R = (0.571668, -0.4742187, -0.4742191, 0.4726823)
+jointRotationOffset2 = frontwhiiskers2_R = (0.6662308, -0.4530885, -0.4530886, 0.381521)
+jointRotationOffset2 = frontwhiiskers2_R_end = (0.6662308, -0.4530885, -0.4530886, 0.381521)
+jointRotationOffset2 = headwhiskers1_L = (0.115546, -0.4591321, -0.4591317, -0.7516947)
+jointRotationOffset2 = headwhiskers2_L = (-0.02717767, -0.533812, -0.5338119, -0.6552488)
+jointRotationOffset2 = headwhiskers2_L_end = (-0.02717767, -0.533812, -0.5338119, -0.6552488)
+jointRotationOffset2 = headwhiskers1_R = (0.1155465, 0.4591308, 0.4591307, -0.751696)
+jointRotationOffset2 = headwhiskers2_R = (-0.02717951, 0.5338156, 0.5338153, -0.655243)
+jointRotationOffset2 = headwhiskers2_R_end = (-0.02717951, 0.5338156, 0.5338153, -0.655243)
+jointRotationOffset2 = cheek1_L = (-0.4776919, -0.5868464, -0.5868463, -0.2881548)
+jointRotationOffset2 = cheek2_L = (-0.4842749, -0.5994837, -0.5994836, -0.21614)
+jointRotationOffset2 = cheek2_L_end = (-0.4842749, -0.5994837, -0.5994836, -0.21614)
+jointRotationOffset2 = cheek1_R = (0.4776917, -0.5868465, -0.5868464, 0.2881547)
+jointRotationOffset2 = cheek2_R = (0.4842746, -0.5994839, -0.5994837, 0.2161401)
+jointRotationOffset2 = cheek2_R_end = (0.4842746, -0.5994839, -0.5994837, 0.2161401)
+jointRotationOffset2 = nose = (5.338764E-08, -0.7071068, -0.7071066, -5.338285E-08)
+jointRotationOffset2 = nose.001 = (2.460662E-12, -0.7071059, -0.7071075, 2.117116E-12)
+jointRotationOffset2 = nose.001_end = (2.460662E-12, -0.7071059, -0.7071075, 2.117116E-12)
+jointRotationOffset2 = Tongue = (0.7181863, -2.187061E-12, 2.588669E-12, -0.6958508)
+jointRotationOffset2 = Tongue.001 = (0.7198423, 7.792911E-12, 1.256545E-11, -0.6941376)
+jointRotationOffset2 = Tongue.002 = (0.7755444, 5.267894E-07, 6.471679E-07, -0.6312931)
+jointRotationOffset2 = Tongue.003 = (0.8143584, 1.383644E-07, 1.94158E-07, -0.5803626)
+jointRotationOffset2 = Tongue.003_end = (0.8143584, 1.383644E-07, 1.94158E-07, -0.5803626)
+jointRotationOffset2 = HatDangle1 = (0.9826826, 9.323718E-05, -0.0004944685, 0.1852958)
+jointRotationOffset2 = HatDangle2 = (0.9951574, -3.794134E-05, 0.00038413, 0.09829355)
+jointRotationOffset2 = HatDangle3 = (0.9990733, 5.135265E-07, 1.191062E-05, -0.0430444)
+jointRotationOffset2 = HatDangle3_end = (0.9990733, 5.135265E-07, 1.191062E-05, -0.0430444)
+jointRotationOffset2 = Left_shoulder = (0.01638673, -0.9878907, -0.1450731, 0.05250872)
+jointRotationOffset2 = Left_arm = (-0.03412503, -0.998675, -0.02034775, -0.03270547)
+jointRotationOffset2 = Left_elbow = (-0.03854932, 0.9961923, -0.006028641, 0.07796448)
+jointRotationOffset2 = Left_wrist = (-0.09491251, 0.9953759, -0.01421088, -0.004072777)
+jointRotationOffset2 = Thumb1_L = (0.1320062, -0.876736, -0.08364718, 0.4548753)
+jointRotationOffset2 = Thumb2_L = (0.002146048, -0.9363452, -0.01771273, 0.3506271)
+jointRotationOffset2 = Thumb3_L = (0.09183793, -0.9450157, -0.05040858, 0.3097907)
+jointRotationOffset2 = Thumb3_L_end = (0.09183793, -0.9450157, -0.05040858, 0.3097907)
+jointRotationOffset2 = IndexFinger1_L = (-0.1127796, 0.9882719, 0.05376999, -0.08779595)
+jointRotationOffset2 = IndexFinger2_L = (0.1002733, -0.9322897, -0.1166942, 0.3273586)
+jointRotationOffset2 = IndexFinger3_L = (0.06532687, -0.9130286, -0.1578802, 0.370385)
+jointRotationOffset2 = IndexFinger3_L_end = (0.06532687, -0.9130286, -0.1578802, 0.370385)
+jointRotationOffset2 = MiddleFinger1_L = (-0.04655782, 0.9898398, 0.02799134, -0.1314007)
+jointRotationOffset2 = MiddleFinger2_L = (-0.007039551, -0.9611986, -0.05423717, 0.2703819)
+jointRotationOffset2 = MiddleFinger3_L = (-0.01570063, -0.9606114, -0.04244794, 0.2741856)
+jointRotationOffset2 = MiddleFinger3_L_end = (-0.01570063, -0.9606114, -0.04244794, 0.2741856)
+jointRotationOffset2 = PinkieFinger1_L = (0.02429906, -0.9828048, -0.01491901, 0.1824325)
+jointRotationOffset2 = PinkieFinger2_L = (0.01265471, -0.9742622, -0.04759803, 0.2199712)
+jointRotationOffset2 = PinkieFinger3_L = (0.01194578, -0.9643268, -0.07033798, 0.2549187)
+jointRotationOffset2 = PinkieFinger3_L_end = (0.01194578, -0.9643268, -0.07033798, 0.2549187)
+jointRotationOffset2 = ringFinger1_L = (0.02836649, -0.9863267, -0.01839311, 0.1612969)
+jointRotationOffset2 = ringFinger2_L = (0.006107561, -0.9574505, -0.04879724, 0.284377)
+jointRotationOffset2 = ringFinger3_L = (0.01405512, -0.9718784, 0.006088973, 0.234985)
+jointRotationOffset2 = ringFinger3_L_end = (0.01405512, -0.9718784, 0.006088973, 0.234985)
+jointRotationOffset2 = dangleSleave1 = (-0.2679205, -0.6542819, -0.2821805, 0.648466)
+jointRotationOffset2 = dangleSleave2 = (-0.2847876, -0.6471177, -0.2988915, 0.6409358)
+jointRotationOffset2 = dangleSleave2_end = (-0.2847876, -0.6471177, -0.2988915, 0.6409358)
+jointRotationOffset2 = LoreOutfit1DangleArm_L = (-0.5491058, -0.5259591, -0.4332626, 0.4838733)
+jointRotationOffset2 = LoreOutfit1DangleArm_L.001 = (-0.5491058, -0.5259591, -0.4332626, 0.4838734)
+jointRotationOffset2 = LoreOutfit1DangleArm_L.001_end = (-0.5491058, -0.5259591, -0.4332626, 0.4838734)
+jointRotationOffset2 = Right_shoulder = (-0.01616823, -0.9879026, -0.145042, -0.05244152)
+jointRotationOffset2 = Right_arm = (0.0341265, -0.9986721, -0.02034613, 0.03279862)
+jointRotationOffset2 = Right_elbow = (-0.03854913, -0.9961851, 0.006023823, 0.07806057)
+jointRotationOffset2 = Right_wrist = (-0.09492964, -0.9953747, 0.01419729, -0.004078269)
+jointRotationOffset2 = Thumb1_R = (-0.1317176, -0.8768114, -0.08351668, -0.4548378)
+jointRotationOffset2 = Thumb2_R = (-0.00107977, -0.9363813, -0.01734275, -0.3505545)
+jointRotationOffset2 = Thumb3_R = (-0.09359584, -0.9448794, -0.0509946, -0.3095848)
+jointRotationOffset2 = Thumb3_R_end = (-0.09359584, -0.9448794, -0.0509946, -0.3095848)
+jointRotationOffset2 = IndexFinger1_R = (-0.1118186, -0.9883761, -0.0536789, -0.08791066)
+jointRotationOffset2 = IndexFinger2_R = (-0.1008858, -0.9322011, -0.1169012, -0.3273497)
+jointRotationOffset2 = IndexFinger3_R = (-0.06592754, -0.9129596, -0.1581177, -0.3703482)
+jointRotationOffset2 = IndexFinger3_R_end = (-0.06592754, -0.9129596, -0.1581177, -0.3703482)
+jointRotationOffset2 = MiddleFinger1_R = (-0.04466478, -0.9899215, -0.02773947, -0.1314972)
+jointRotationOffset2 = MiddleFinger2_R = (0.006031225, -0.9611847, -0.05451607, -0.2704002)
+jointRotationOffset2 = MiddleFinger3_R = (0.01469299, -0.9606072, -0.04272885, -0.2742131)
+jointRotationOffset2 = MiddleFinger3_R_end = (0.01469299, -0.9606072, -0.04272885, -0.2742131)
+jointRotationOffset2 = PinkieFinger1_R = (-0.02287719, -0.9828369, -0.01465769, -0.1824659)
+jointRotationOffset2 = PinkieFinger2_R = (-0.01260109, -0.9742559, -0.04758662, -0.2200057)
+jointRotationOffset2 = PinkieFinger3_R = (-0.01189358, -0.9643193, -0.07032452, -0.2549542)
+jointRotationOffset2 = PinkieFinger3_R_end = (-0.01189358, -0.9643193, -0.07032452, -0.2549542)
+jointRotationOffset2 = ringFinger1_R = (-0.02669118, -0.9863697, -0.01811947, -0.1613529)
+jointRotationOffset2 = ringFinger2_R = (-0.006940461, -0.9574234, -0.04903961, -0.2844079)
+jointRotationOffset2 = ringFinger3_R = (-0.01489579, -0.971848, 0.005889525, -0.2350651)
+jointRotationOffset2 = ringFinger3_R_end = (-0.01489579, -0.971848, 0.005889525, -0.2350651)
+jointRotationOffset2 = LoreOutfit1DangleArm_R = (0.5491486, -0.5260048, -0.4332101, -0.4838226)
+jointRotationOffset2 = LoreOutfit1DangleArm_R.001 = (0.5491491, -0.5260044, -0.43321, -0.4838226)
+jointRotationOffset2 = LoreOutfit1DangleArm_R.001_end = (0.5491491, -0.5260044, -0.43321, -0.4838226)
+jointRotationOffset2 = bazonga1_L.001 = (0.996594, -6.751364E-06, -2.005159E-07, 0.08246513)
+jointRotationOffset2 = bazonga1_L.001_end = (0.996594, -6.751364E-06, -2.005159E-07, 0.08246513)
+jointRotationOffset2 = bazonga1_R.001 = (0.996594, -6.751364E-06, -2.005159E-07, 0.08246513)
+jointRotationOffset2 = bazonga1_R.001_end = (0.996594, -6.751364E-06, -2.005159E-07, 0.08246513)
+jointRotationOffset2 = booba = (0.08246513, 1.252751E-07, -6.75759E-06, -0.996594)
+jointRotationOffset2 = bazonga1_L = (0.2211652, -0.5283456, -0.668918, -0.4737993)
+jointRotationOffset2 = bazonga2_L = (0.3368079, -0.5654524, -0.5871645, -0.4712347)
+jointRotationOffset2 = bazonga2_L_end = (0.3368079, -0.5654524, -0.5871645, -0.4712347)
+jointRotationOffset2 = bazonga1_R = (-0.2211732, -0.5283431, -0.6689113, 0.4738077)
+jointRotationOffset2 = bazonga2_R = (-0.3368171, -0.5654476, -0.5871562, 0.471244)
+jointRotationOffset2 = bazonga2_R_end = (-0.3368171, -0.5654476, -0.5871562, 0.471244)
+jointRotationOffset2 = tail1 = (0.9439728, 4.878447E-06, -1.538845E-06, 0.3300233)
+jointRotationOffset2 = tail2 = (0.9458727, 4.887296E-06, -1.510502E-06, 0.3245379)
+jointRotationOffset2 = tail3 = (0.9132607, 4.733586E-06, -1.939185E-06, 0.4073759)
+jointRotationOffset2 = tail4 = (-0.8293093, -4.328181E-06, 2.726566E-06, -0.5587903)
+jointRotationOffset2 = tail5 = (-0.6970271, -3.672902E-06, 3.560364E-06, -0.7170451)
+jointRotationOffset2 = tail6 = (-0.4795451, -2.589998E-06, 4.411258E-06, -0.8775174)
+jointRotationOffset2 = tail7 = (-0.3734481, -2.055409E-06, 4.684295E-06, -0.9276512)
+jointRotationOffset2 = tail8 = (-0.3353072, -1.862683E-06, 4.764207E-06, -0.942109)
+jointRotationOffset2 = tail9 = (-0.3094359, -1.731782E-06, 4.81334E-06, -0.9509206)
+jointRotationOffset2 = tail10 = (-0.2808286, -1.586913E-06, 4.86302E-06, -0.9597583)
+jointRotationOffset2 = tail10_end = (-0.2808286, -1.586913E-06, 4.86302E-06, -0.9597583)
+jointRotationOffset2 = Left_leg = (-0.002285989, 0.9979609, 0.06378134, 0.0008173509)
+jointRotationOffset2 = Left_knee = (0.002180563, 0.9986385, -0.05211427, 0.0007425256)
+jointRotationOffset2 = Left_ankle = (0.3908312, -0.1016537, 0.2473228, -0.8807663)
+jointRotationOffset2 = Left_ankle.001 = (0.4045243, -0.001074697, 0.01007626, -0.9144713)
+jointRotationOffset2 = Left_ankle.002 = (-0.005706255, 0.006760336, -0.007141975, -0.9999356)
+jointRotationOffset2 = Left_ankle.002_end = (-0.005706255, 0.006760336, -0.007141975, -0.9999356)
+jointRotationOffset2 = Left_ankle.003 = (0.3979319, -0.06879473, 0.1732107, -0.898285)
+jointRotationOffset2 = Left_ankle.004 = (0.3964839, -0.07669716, 0.1910509, -0.8946608)
+jointRotationOffset2 = Left_ankle.004_end = (0.3964839, -0.07669716, 0.1910509, -0.8946608)
+jointRotationOffset2 = Left_ankle.005 = (0.3751318, -0.1495275, 0.3550699, -0.8431153)
+jointRotationOffset2 = Left_ankle.006 = (0.374919, -0.1500601, 0.3562676, -0.8426099)
+jointRotationOffset2 = Left_ankle.006_end = (0.374919, -0.1500601, 0.3562676, -0.8426099)
+jointRotationOffset2 = Left_ankle.007 = (0.3193156, -0.2472234, 0.573907, -0.7124249)
+jointRotationOffset2 = Left_ankle.008 = (0.3210529, -0.2449637, 0.5688639, -0.7164581)
+jointRotationOffset2 = Left_ankle.008_end = (0.3210529, -0.2449637, 0.5688639, -0.7164581)
+jointRotationOffset2 = LoreOutfit1Dangle_L = (-0.09565356, 0.9907283, -0.02141991, 0.09406877)
+jointRotationOffset2 = LoreOutfit1Dangle_L.001 = (-0.07069872, 0.9928218, -0.02131052, 0.09408804)
+jointRotationOffset2 = LoreOutfit1Dangle_L.001_end = (-0.07069872, 0.9928218, -0.02131052, 0.09408804)
+jointRotationOffset2 = Right_leg = (0.002303638, 0.9979743, 0.06357086, -0.0008252953)
+jointRotationOffset2 = sidesack1 = (0.2874719, 0.9111003, -0.07297131, -0.2862366)
+jointRotationOffset2 = sidesack2 = (0.2566539, 0.92804, -0.08774303, -0.2552874)
+jointRotationOffset2 = sidesack2_end = (0.2566539, 0.92804, -0.08774303, -0.2552874)
+jointRotationOffset2 = bagFlap1 = (0.6867331, 0.6809244, -0.1705856, -0.188786)
+jointRotationOffset2 = bagFlap2 = (0.01086936, 0.9652652, -0.01571156, -0.2605731)
+jointRotationOffset2 = bagFlap2_end = (0.01086936, 0.9652652, -0.01571156, -0.2605731)
+jointRotationOffset2 = Right_knee = (-0.002197247, 0.9986503, -0.05188875, -0.0007504949)
+jointRotationOffset2 = Right_ankle = (0.3908235, 0.1016795, -0.2476621, -0.8806713)
+jointRotationOffset2 = Right_ankle.001 = (0.4045249, 0.0011018, -0.010429, -0.9144669)
+jointRotationOffset2 = Right_ankle.002 = (-0.00570436, -0.006880144, 0.006808908, -0.999937)
+jointRotationOffset2 = Right_ankle.002_end = (-0.00570436, -0.006880144, 0.006808908, -0.999937)
+jointRotationOffset2 = Right_ankle.003 = (0.3979265, 0.06882146, -0.1735567, -0.8982183)
+jointRotationOffset2 = Right_ankle.004 = (0.3964779, 0.07672385, -0.1913954, -0.8945873)
+jointRotationOffset2 = Right_ankle.004_end = (0.3964779, 0.07672385, -0.1913954, -0.8945873)
+jointRotationOffset2 = Right_ankle.005 = (0.375121, 0.1495521, -0.3553944, -0.8429789)
+jointRotationOffset2 = Right_ankle.006 = (0.374908, 0.1500847, -0.3565919, -0.8424731)
+jointRotationOffset2 = Right_ankle.006_end = (0.374908, 0.1500847, -0.3565919, -0.8424731)
+jointRotationOffset2 = Right_ankle.007 = (0.3192985, 0.2472438, -0.5741811, -0.7122045)
+jointRotationOffset2 = Right_ankle.008 = (0.321036, 0.2449841, -0.5691397, -0.7162395)
+jointRotationOffset2 = Right_ankle.008_end = (0.321036, 0.2449841, -0.5691397, -0.7162395)
+jointRotationOffset2 = LoreOutfit1Dangle_R = (0.09565192, 0.9907215, -0.02162986, -0.09409469)
+jointRotationOffset2 = LoreOutfit1Dangle_R.001 = (0.07069709, 0.9928153, -0.02152121, -0.0941087)
+jointRotationOffset2 = LoreOutfit1Dangle_R.001_end = (0.07069709, 0.9928153, -0.02152121, -0.0941087)
+jointRotationOffset2 = Belly = (0.7936717, 3.963141E-06, 3.235673E-06, -0.6083463)
+jointRotationOffset2 = Belly.001 = (0.8032227, 4.188941E-06, 3.347921E-06, -0.595679)
+jointRotationOffset2 = Belly.001_end = (0.8032227, 4.188941E-06, 3.347921E-06, -0.595679)
+jointRotationOffset2 = loinCloth1 = (0.9999999, 5.039592E-06, 7.13903E-08, -1.682834E-07)
+jointRotationOffset2 = loinCloth1.001 = (0.9999999, 5.112975E-06, 1.573714E-07, -1.68283E-07)
+jointRotationOffset2 = loinCloth1.002 = (0.9999999, 5.112975E-06, 1.573714E-07, -1.68283E-07)
+jointRotationOffset2 = loinCloth1.002_end = (0.9999999, 5.112975E-06, 1.573714E-07, -1.68283E-07)
+jointRotationOffset2 = tail1.001 = (0.9007111, 4.673673E-06, -2.079428E-06, 0.4344186)
+jointRotationOffset2 = tail2.001 = (-0.8590971, -4.473086E-06, 2.481688E-06, -0.5118124)
+jointRotationOffset2 = tail3.001 = (-0.7668246, -4.021771E-06, 3.161115E-06, -0.6418566)
+jointRotationOffset2 = tail4.001 = (-0.5917167, -3.152293E-06, 4.028688E-06, -0.8061458)
+jointRotationOffset2 = tail4.001_end = (-0.5917167, -3.152293E-06, 4.028688E-06, -0.8061458)
+jointRotationOffset2 = Robes_Back = (0.9999999, 5.081525E-06, 7.139031E-08, -1.682834E-07)
+jointRotationOffset2 = Robes_Back.001 = (0.9999999, 5.112975E-06, 1.573712E-07, -1.086783E-07)
+jointRotationOffset2 = Robes_Back.001_end = (0.9999999, 5.112975E-06, 1.573712E-07, -1.086783E-07)
