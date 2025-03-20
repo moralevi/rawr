@@ -1,7 +1,7 @@
 exporterVersion = 0.7.0
 name     = mora
 type     = body+head
-scale    = 1
+scale    = 0.5
 filename = Lopkin.glb
 bs = JawOpen = Mouth Open = 1
 bs = EyeBlink_L = Left Blink = 1
